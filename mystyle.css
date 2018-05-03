@@ -1,0 +1,79 @@
+
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+      margin:0;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 {
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 {
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 {
+      background-color:#BDBDBD; /* White */
+      color: #BDBDBD;
+  }
+  .bg-4 {
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 50px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      margin-top:0px;
+      font-size: 25px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #F44336 !important;
+  }
+  .footer a {
+  color: red;
+  font-size: 30px;
+  padding: 10px;
+  border-right: 1px;
+  transition: all .5s ease;
+}
+
+.footer a:hover {
+  color: #70726F;
+}
+.fill {
+    min-height: 100%;
+    height: 100%;
+}
+.nav{
+  font-color:black;
+  padding-left:0px;
+  margin-left:0;
+}
+.sensorValue
+{
+  color:black;
+  padding-top:25px;
+  font-size:50px;
+  font-weight:bolder;
+  word-wrap:break-word;
+}
+
+.imageTop
+{
+
+  color:black;
+  padding-top:10px;
+  font-size:30px;
+  font-weight:bold;
+}
